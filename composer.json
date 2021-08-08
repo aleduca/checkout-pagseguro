@@ -1,0 +1,14 @@
+{
+    "require": {
+    	"pagseguro/php": "dev-master",
+        "symfony/var-dumper": "3.0.*@dev",
+        "cagartner/correios-consulta": "^0.1.1"
+    },
+    "autoload":{
+        "psr-4":{
+            "app\\models\\":"app/models",
+            "app\\classes\\":"app/classes",
+            "app\\interfaces\\":"app/interfaces"
+        }
+    }
+}

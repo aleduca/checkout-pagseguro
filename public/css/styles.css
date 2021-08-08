@@ -1,0 +1,35 @@
+.lista-produtos-inicio{
+    width: 250px;
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+    border: solid 1px #efefef;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.lista-produtos-inicio img{
+    width: 200px;
+    height: 180px;
+}
+
+#modal1{
+    display: none;
+
+}
+
+thead{
+    background-color: #000;
+    color: #FFF;
+}
+
+tfoot{
+    background-color: #000;
+    color: #FFF;
+}
+
+#table-carrinho{
+    margin-top: 20px;
+}
